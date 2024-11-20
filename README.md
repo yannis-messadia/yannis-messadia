@@ -22,7 +22,7 @@ Python, R, Linux, HTML, CSS, Shell
 
 ## Statistiques
 
-![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=ymess31&show_icons=true&theme=radical)
+![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=yannis-messadia&show_icons=true&theme=radical)
 
 
 ## 📁 My projects 
